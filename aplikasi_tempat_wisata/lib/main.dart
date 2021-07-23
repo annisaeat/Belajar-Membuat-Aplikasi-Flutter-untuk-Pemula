@@ -22,7 +22,14 @@ class DetailScreen extends StatelessWidget {
           children: <Widget>[
             Container(
               margin: EdgeInsets.only(top: 16.0),
-              child: Text('Farm House Lembang'),
+              child: Text(
+                'Farm House Lembang',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 30.0,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
             )
           ],
         ),
