@@ -20,7 +20,9 @@ class DetailScreen extends StatelessWidget {
     body:
     Column(
       children: <Widget>[
-        Container(child: Text('Farm House Lembang')),
+        Container(
+            margin: EdgeInsets.only(top: 16.0),
+            child: Text('Farm House Lembang')),
       ],
     );
   }
