@@ -20,7 +20,7 @@ class DetailScreen extends StatelessWidget {
     body:
     Column(
       children: <Widget>[
-        Text('Farm House Lembang'),
+        Container(child: Text('Farm House Lembang')),
       ],
     );
   }
