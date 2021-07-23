@@ -18,6 +18,10 @@ class DetailScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold();
     body:
-    Column();
+    Column(
+      children: <Widget>[
+        Text('Farm House Lembang'),
+      ],
+    );
   }
 }
