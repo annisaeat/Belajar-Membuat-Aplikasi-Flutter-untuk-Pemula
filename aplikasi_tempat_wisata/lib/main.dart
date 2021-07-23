@@ -35,7 +35,14 @@ class DetailScreen extends StatelessWidget {
             Container(
               margin: EdgeInsets.symmetric(vertical: 16.0),
               child: Row(
-                children: <Widget>[],
+                children: <Widget>[
+                  Column(
+                    children: <Widget>[
+                      Icon(Icons.calendar_today),
+                      Text('Open Everyday'),
+                    ],
+                  ),
+                ],
               ),
             ),
           ],
