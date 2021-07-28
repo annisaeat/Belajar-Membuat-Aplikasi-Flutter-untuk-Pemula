@@ -1,4 +1,4 @@
-# aplikasi_tempat_wisata
+# Shampo
 
 A new Flutter project.
 
