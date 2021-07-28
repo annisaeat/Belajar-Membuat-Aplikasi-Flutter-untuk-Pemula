@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Shampo',
+      title: 'Wisata Bandung',
       theme: ThemeData(),
       home: MainScreen(),
     );
