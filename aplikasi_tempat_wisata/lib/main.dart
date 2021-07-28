@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:aplikasi_tempat_wisata/detail_screen.dart';
+import 'package:aplikasi_tempat_wisata/main_screen.dart';
+
+import 'main_screen.dart';
 
 void main() => runApp(MyApp());
 
